@@ -1,4 +1,4 @@
-Data Structures & Algorithms semester project
+# Data Structures & Algorithms semester project
 
 Implementation of a social network with a simplified model, from which relevant information can be extracted.
 
